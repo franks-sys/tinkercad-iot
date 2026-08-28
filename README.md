@@ -1,6 +1,6 @@
 ## Pista de pouso
 
-![](/Prints/Pista_de_pouso.png)
+![](/assets/Poste com led fotoresistor com arduino.png)
 
 ```C
 int fotoresistor = A0;
