@@ -36,7 +36,7 @@
 
 ### Gráfico diário
 <p align="center">
-  <img src="assets/Tela (1).png" width="700">
+  <img src="./assets/Tela_1.png" width="700">
 </p>
 
 ### Gráfico semanal
