@@ -36,19 +36,19 @@
 
 ### Gráfico diário
 <p align="center">
-  <img src="Prints/Tela (1).png" width="700">
+  <img src="assets/Tela (1).png" width="700">
 </p>
 
 ### Gráfico semanal
 
 <p align="center">
-  <img src="Prints/Tela (2).png" width="700">
+  <img src="assets/Tela (2).png" width="700">
 </p>
 
 ### Tabela
 
 <p align="center">
-  <img src="Prints/Tela (3).png" width="700">
+  <img src="assets/Tela (3).png" width="700">
 </p>
 
 ---
@@ -73,7 +73,7 @@ Também foi realizada uma versão **sem Arduino**, utilizando apenas componentes
 ### 🔌 Circuito sem Arduino
 
 <p align="center">
-  <img src="Prints/Poste.png" width="600">
+  <img src="assets/Poste.png" width="600">
 </p>
 
 
@@ -99,7 +99,7 @@ O Arduino controla a sequência de funcionamento dos semáforos utilizando difer
 ### 🔌 Circuito
 
 <p align="center">
-  <img src="Prints/semaforo.png" width="600">
+  <img src="assets/semaforo.png" width="600">
 </p>
 
 ### 💻 Código
@@ -182,7 +182,7 @@ Os LEDs acendem em sequência, criando um efeito de iluminação semelhante às 
 ### 🔌 Circuito
 
 <p align="center">
-  <img src="Prints/Pista_de_pouso.png" width="600">
+  <img src="assets/Pista_de_pouso.png" width="600">
 </p>
 
 ### 💻 Código
@@ -243,7 +243,7 @@ Também foi utilizado um capacitor no circuito.
 ### 🔌 Circuito
 
 <p align="center">
-  <img src="Prints/microservo.png" width="600">
+  <img src="assets/microservo.png" width="600">
 </p>
 
 ### 💻 Código
@@ -289,7 +289,7 @@ Também foi realizado um desafio envolvendo display.
 ### 🔌 Circuito
 
 <p align="center">
-  <img src="Prints/numero_potenciometro.png" width="600">
+  <img src="assets/numero_potenciometro.png" width="600">
 </p>
 
 ### 💻 Código
@@ -334,7 +334,7 @@ void exibirNumero(int n) {
 ### 🔌 Circuito com 2 displays
 
 <p align="center">
-  <img src="Prints/display.png" width="600">
+  <img src="assets/display.png" width="600">
 </p>
 
 ### 💻 Código
@@ -413,7 +413,7 @@ O Arduino identifica o estado do portão e controla o motor através dos relés.
 ### 🔌 Circuito
 
 <p align="center">
-  <img src="Prints/Portão.png" width="600">
+  <img src="assets/Portão.png" width="600">
 </p>
 
 ### 💻 Código
