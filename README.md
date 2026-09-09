@@ -42,7 +42,7 @@
 ### Gráfico semanal
 
 <p align="center">
-  <img src="assets/Tela (2).png" width="700">
+  <img src="./assets/Tela (2).png" width="700">
 </p>
 
 ### Tabela
