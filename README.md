@@ -2,53 +2,51 @@
 
 # 📚 Conteúdos
 
-- Dashboard Web
-- Experimento 01 - Poste com LED e Fotoresistor
-- Experimento 02 - Semáforo de duas vias e pedestre
-- Experimento 03 - Pista de pouso
-- Experimento 04 - Servo motor com potenciômetro
-- Experimento 05 - Display de 7 segmentos
-- Experimento 06 - Portão eletrônico
-
+* Dashboard Web
+* Experimento 01 - Poste com LED e Fotoresistor
+* Experimento 02 - Semáforo de duas vias e pedestre
+* Experimento 03 - Pista de pouso
+* Experimento 04 - Servo motor com potenciômetro
+* Experimento 05 - Display de 7 segmentos
+* Experimento 06 - Portão eletrônico
 
 ---
 
 # 🌐 Dashboard Web
 
-
-- 📊 Gráfico diário
-- 📊 Gráfico semanal
-- 📋 Tabela com os registros
-- 📅 Data dos acionamentos
-- 🕐 Horário dos acionamentos
-- 📆 Semana correspondente
+* 📊 Gráfico diário
+* 📊 Gráfico semanal
+* 📋 Tabela com os registros
+* 📅 Data dos acionamentos
+* 🕐 Horário dos acionamentos
+* 📆 Semana correspondente
 
 ## 🛠️ Tecnologias utilizadas
 
-- HTML
-- CSS
-- JavaScript
-- Chart.js
-- CSV
-
+* HTML
+* CSS
+* JavaScript
+* Chart.js
+* CSV
 
 ## 🖥️ Prints
 
 ### Gráfico diário
+
 <p align="center">
-  <img src="./assets/Tela_1.png" width="700">
+  <img src="https://raw.githubusercontent.com/franks-sys/tinkercad-iot/main/assets/Prints/Tela%20%281%29.png" width="700">
 </p>
 
 ### Gráfico semanal
 
 <p align="center">
-  <img src="./assets/Tela (2).png" width="700">
+  <img src="https://raw.githubusercontent.com/franks-sys/tinkercad-iot/main/assets/Prints/Tela%20%282%29.png" width="700">
 </p>
 
 ### Tabela
 
 <p align="center">
-  <img src="assets/Tela (3).png" width="700">
+  <img src="https://raw.githubusercontent.com/franks-sys/tinkercad-iot/main/assets/Prints/Tela%20%283%29.png" width="700">
 </p>
 
 ---
@@ -63,8 +61,8 @@ Criar um sistema de iluminação automática utilizando um **LED e um fotoresist
 
 O sistema com Arduino identifica a quantidade de luz no ambiente:
 
-- ☀️ Durante o dia: o LED permanece apagado.
-- 🌙 Durante a noite: o LED acende.
+* ☀️ Durante o dia: o LED permanece apagado.
+* 🌙 Durante a noite: o LED acende.
 
 Também foi realizada uma versão **sem Arduino**, utilizando apenas componentes eletrônicos.
 
@@ -73,9 +71,8 @@ Também foi realizada uma versão **sem Arduino**, utilizando apenas componentes
 ### 🔌 Circuito sem Arduino
 
 <p align="center">
-  <img src="assets/Poste.png" width="600">
+  <img src="https://raw.githubusercontent.com/franks-sys/tinkercad-iot/main/assets/Prints/Poste.png" width="600">
 </p>
-
 
 ---
 
@@ -85,12 +82,12 @@ Também foi realizada uma versão **sem Arduino**, utilizando apenas componentes
 
 Criar um sistema de semáforo utilizando Arduino, contendo:
 
-- 🚦 Semáforo da primeira via
-- 🚦 Semáforo da segunda via
-- 🚶 Semáforo para pedestres
-- 🔴 LEDs vermelhos
-- 🟡 LEDs amarelos
-- 🟢 LEDs verdes
+* 🚦 Semáforo da primeira via
+* 🚦 Semáforo da segunda via
+* 🚶 Semáforo para pedestres
+* 🔴 LEDs vermelhos
+* 🟡 LEDs amarelos
+* 🟢 LEDs verdes
 
 O Arduino controla a sequência de funcionamento dos semáforos utilizando diferentes intervalos de tempo.
 
@@ -99,7 +96,7 @@ O Arduino controla a sequência de funcionamento dos semáforos utilizando difer
 ### 🔌 Circuito
 
 <p align="center">
-  <img src="assets/semaforo.png" width="600">
+  <img src="https://raw.githubusercontent.com/franks-sys/tinkercad-iot/main/assets/Prints/semaforo.png" width="600">
 </p>
 
 ### 💻 Código
@@ -182,7 +179,7 @@ Os LEDs acendem em sequência, criando um efeito de iluminação semelhante às 
 ### 🔌 Circuito
 
 <p align="center">
-  <img src="assets/Pista_de_pouso.png" width="600">
+  <img src="https://raw.githubusercontent.com/franks-sys/tinkercad-iot/main/assets/Prints/Pista_de_pouso.png" width="600">
 </p>
 
 ### 💻 Código
@@ -243,7 +240,7 @@ Também foi utilizado um capacitor no circuito.
 ### 🔌 Circuito
 
 <p align="center">
-  <img src="assets/microservo.png" width="600">
+  <img src="https://raw.githubusercontent.com/franks-sys/tinkercad-iot/main/assets/Prints/microservo.png" width="600">
 </p>
 
 ### 💻 Código
@@ -289,7 +286,7 @@ Também foi realizado um desafio envolvendo display.
 ### 🔌 Circuito
 
 <p align="center">
-  <img src="assets/numero_potenciometro.png" width="600">
+  <img src="https://raw.githubusercontent.com/franks-sys/tinkercad-iot/main/assets/Prints/numero_potenciometro.png" width="600">
 </p>
 
 ### 💻 Código
@@ -334,7 +331,7 @@ void exibirNumero(int n) {
 ### 🔌 Circuito com 2 displays
 
 <p align="center">
-  <img src="assets/display.png" width="600">
+  <img src="https://raw.githubusercontent.com/franks-sys/tinkercad-iot/main/assets/Prints/display.png" width="600">
 </p>
 
 ### 💻 Código
@@ -413,7 +410,7 @@ O Arduino identifica o estado do portão e controla o motor através dos relés.
 ### 🔌 Circuito
 
 <p align="center">
-  <img src="assets/Portão.png" width="600">
+  <img src="https://raw.githubusercontent.com/franks-sys/tinkercad-iot/main/assets/Prints/Port%C3%A3o.png" width="600">
 </p>
 
 ### 💻 Código
@@ -494,3 +491,4 @@ bool parado(){
 	Serial.println("Parado");
 	return false;
 }
+```
